@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38ff0c8b.css",
+    "main.js": "/static/js/main.b5b4f2a5.js",
+    "static/js/787.be65bdd3.chunk.js": "/static/js/787.be65bdd3.chunk.js",
+    "static/media/cloud-meetup-edyoda-small_b2EXhBe.jpg": "/static/media/cloud-meetup-edyoda-small_b2EXhBe.f8fca1bd1d2bc2258564.jpg",
+    "static/media/7_reasons_to_learn_Python_u3lFION.jpg": "/static/media/7_reasons_to_learn_Python_u3lFION.0459f9cb73ff959b7384.jpg",
+    "static/media/edyoda_WxvDSK1.jpg": "/static/media/edyoda_WxvDSK1.2a2ca07591fa02f0529e.jpg",
+    "static/media/Data_Scientist_1920_1280_DsZBGZu.jpg": "/static/media/Data_Scientist_1920_1280_DsZBGZu.7f8817138cf63a65cf0b.jpg",
+    "static/media/edyoda_blog_aws_cloudday_17may2018_Bangalore_small_ByulIE.jpg": "/static/media/edyoda_blog_aws_cloudday_17may2018_Bangalore_small_ByulIE.779c929e36e2bed726af.jpg",
+    "static/media/devops-edYoda-blog-small.jpg": "/static/media/devops-edYoda-blog-small.5cbca7804d9cdf0f96d4.jpg",
+    "index.html": "/index.html",
+    "main.38ff0c8b.css.map": "/static/css/main.38ff0c8b.css.map",
+    "main.b5b4f2a5.js.map": "/static/js/main.b5b4f2a5.js.map",
+    "787.be65bdd3.chunk.js.map": "/static/js/787.be65bdd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38ff0c8b.css",
+    "static/js/main.b5b4f2a5.js"
+  ]
+}
